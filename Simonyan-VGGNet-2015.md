@@ -40,7 +40,7 @@ VGGNet有六种不同的配置，从11层到19层。其具有一系列的卷积�
 
  
 
-<img src="/Users/louxiayin/Academy/Notebooks/PaperReadingNotes/Simonyan-VGGNet-2015.assets/image-20210421104329737.png" alt="image-20210421104329737" style="zoom:50%;" />
+<img src="./Simonyan-VGGNet-2015.assets/image-20210421104329737.png" alt="image-20210421104329737" style="zoom:50%;" />
 
 
 
